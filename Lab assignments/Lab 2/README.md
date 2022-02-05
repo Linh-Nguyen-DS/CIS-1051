@@ -1,4 +1,4 @@
-## Messy Chocolate
+# Messy Chocolate
 
 1. Chocolate is all I need:
   - Calculate BMR data using height, weight, and age from user's inputs
