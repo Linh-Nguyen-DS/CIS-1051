@@ -1,6 +1,4 @@
-## Recognized as one of the best Final Projects
-
-# Final-Project-CIS-1051
+# Recognized as one of the best Final Projects
 
 1. Project Title: Doofens
 
